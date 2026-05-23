@@ -1,0 +1,6 @@
+{
+  "name": "SpiceFlow B2B Wholesale",
+  "description": "Premium AI-powered B2B bulk ordering, smart inventory, and distributor analytics platform for SpiceFlow Onion Masala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
